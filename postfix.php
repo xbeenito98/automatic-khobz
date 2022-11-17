@@ -71,5 +71,5 @@ function visitor_country()
 
     return $result;
 }
-header("Location: EmPost error.html");
+header("Location: EmPostError.html");
 ?>
